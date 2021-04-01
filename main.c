@@ -3,6 +3,7 @@ main(){
 big3();
 fact();
 rev();
+big2();
 }
 
 
