@@ -1,5 +1,5 @@
 PROJECT1.exe:main.o biggest3.o factorial.o reverse.o big2.o
-	gcc -o PROJECT1.exe main.o biggest3.o factorial.o reverse.o big2.0
+	gcc -o PROJECT1.exe main.o biggest3.o factorial.o reverse.o big2.o
 main.o:main.c
 	gcc -c main.c
 biggest3.o:biggest3.c
