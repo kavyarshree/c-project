@@ -3,7 +3,8 @@ main(){
 big3();
 fact();
 rev();
-big2();  //adding comments//
+big2();
+palind();
 }
 
 
