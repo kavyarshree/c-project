@@ -18,5 +18,5 @@ void big2() {
 	printf("Both are Equal\n");
     }
    
-    return 0;  
+    return 0;  //comment//
 }
